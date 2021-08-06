@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a full stack developer currently pursuing a BTech degree in computer science from Chitkara University, India. I usually make large scale javascript applications from scratch.
+I am a full stack developer having an Engineering degree in computer science from Chitkara University, India. I usually make large scale web applications from scratch.
 
-I love building things. While my profession is building web services, I also have keen interest in hardware and native technologies. I have worked with C, C++ and Java programming languages in the past. I prefer JavaScript for building big and complex projects because of ever evolving programming patterns and refactoring techniques plus increasing number of open source frameworks built with it.
+I love building things. While my profession is building web services, I also have keen interest in hardware and native technologies. I have worked with C, C++ and Java programming languages in the past. However, I prefer JavaScript for building big and complex projects because of ever evolving programming patterns and ever-increasing number of open source frameworks built with it.
 
 While hard engineering problems are often fun to tackle, I'm most attracted to solving real customer problems with business justification.
